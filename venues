@@ -1,4 +1,4 @@
-[
+{"places":[
   {
     "id": 1,
     "name": "Tasty Bites",
@@ -38,4 +38,4 @@
       "https://example.com/spice-haven-image2.jpg"
     ]
   }
-]
+]}
