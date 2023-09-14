@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Tasty Bites",
+    "description": "A cozy family restaurant with a variety of cuisines.",
+    "price": "$$",
+    "rating": 4.3,
+    "categories": ["Italian", "Mexican", "American"],
+    "thumbnail": "https://example.com/tasty-bites-thumbnail.jpg",
+    "images": [
+      "https://example.com/tasty-bites-image1.jpg",
+      "https://example.com/tasty-bites-image2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sushi Delight",
+    "description": "Experience the finest sushi in town.",
+    "price": "$$$",
+    "rating": 4.8,
+    "categories": ["Japanese", "Sushi"],
+    "thumbnail": "https://example.com/sushi-delight-thumbnail.jpg",
+    "images": [
+      "https://example.com/sushi-delight-image1.jpg",
+      "https://example.com/sushi-delight-image2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Spice Haven",
+    "description": "Authentic Indian cuisine for spice lovers.",
+    "price": "$$",
+    "rating": 4.5,
+    "categories": ["Indian", "Curry"],
+    "thumbnail": "https://example.com/spice-haven-thumbnail.jpg",
+    "images": [
+      "https://example.com/spice-haven-image1.jpg",
+      "https://example.com/spice-haven-image2.jpg"
+    ]
+  }
+]
