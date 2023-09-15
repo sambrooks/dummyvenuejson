@@ -37,5 +37,356 @@
       "https://example.com/spice-haven-image1.jpg",
       "https://example.com/spice-haven-image2.jpg"
     ]
+  },
+  {
+    "id": 4,
+    "name": "Mediterranean Flavors",
+    "description": "Explore the tastes of the Mediterranean.",
+    "price": "$$",
+    "rating": 4.4,
+    "categories": ["Mediterranean", "Greek", "Italian"],
+    "thumbnail": "https://example.com/mediterranean-flavors-thumbnail.jpg",
+    "images": [
+      "https://example.com/mediterranean-flavors-image1.jpg",
+      "https://example.com/mediterranean-flavors-image2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Thai Fusion",
+    "description": "A fusion of traditional Thai and modern cuisine.",
+    "price": "$$$",
+    "rating": 4.7,
+    "categories": ["Thai", "Asian Fusion"],
+    "thumbnail": "https://example.com/thai-fusion-thumbnail.jpg",
+    "images": [
+      "https://example.com/thai-fusion-image1.jpg",
+      "https://example.com/thai-fusion-image2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Burger Haven",
+    "description": "Home to the juiciest burgers in town.",
+    "price": "$",
+    "rating": 4.2,
+    "categories": ["American", "Burgers"],
+    "thumbnail": "https://example.com/burger-haven-thumbnail.jpg",
+    "images": [
+      "https://example.com/burger-haven-image1.jpg",
+      "https://example.com/burger-haven-image2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sushi Express",
+    "description": "Quick and delicious sushi on the go.",
+    "price": "$$",
+    "rating": 4.0,
+    "categories": ["Japanese", "Sushi"],
+    "thumbnail": "https://example.com/sushi-express-thumbnail.jpg",
+    "images": [
+      "https://example.com/sushi-express-image1.jpg",
+      "https://example.com/sushi-express-image2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Taco Fiesta",
+    "description": "Authentic Mexican tacos for taco lovers.",
+    "price": "$",
+    "rating": 4.5,
+    "categories": ["Mexican", "Tacos"],
+    "thumbnail": "https://example.com/taco-fiesta-thumbnail.jpg",
+    "images": [
+      "https://example.com/taco-fiesta-image1.jpg",
+      "https://example.com/taco-fiesta-image2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Pizza Palace",
+    "description": "A paradise for pizza enthusiasts.",
+    "price": "$$",
+    "rating": 4.6,
+    "categories": ["Italian", "Pizza"],
+    "thumbnail": "https://example.com/pizza-palace-thumbnail.jpg",
+    "images": [
+      "https://example.com/pizza-palace-image1.jpg",
+      "https://example.com/pizza-palace-image2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sizzling Steaks",
+    "description": "Savor the finest cuts of steak in town.",
+    "price": "$$$",
+    "rating": 4.8,
+    "categories": ["Steakhouse", "American"],
+    "thumbnail": "https://example.com/sizzling-steaks-thumbnail.jpg",
+    "images": [
+      "https://example.com/sizzling-steaks-image1.jpg",
+      "https://example.com/sizzling-steaks-image2.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Sushi Sensation",
+    "description": "A sensory delight of sushi creations.",
+    "price": "$$$",
+    "rating": 4.9,
+    "categories": ["Japanese", "Sushi"],
+    "thumbnail": "https://example.com/sushi-sensation-thumbnail.jpg",
+    "images": [
+      "https://example.com/sushi-sensation-image1.jpg",
+      "https://example.com/sushi-sensation-image2.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Café Bliss",
+    "description": "A serene café with artisanal coffee and pastries.",
+    "price": "$$",
+    "rating": 4.4,
+    "categories": ["Café", "Coffee"],
+    "thumbnail": "https://example.com/cafe-bliss-thumbnail.jpg",
+    "images": [
+      "https://example.com/cafe-bliss-image1.jpg",
+      "https://example.com/cafe-bliss-image2.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Taste of India",
+    "description": "Authentic flavors of India in every dish.",
+    "price": "$$",
+    "rating": 4.6,
+    "categories": ["Indian", "Curry"],
+    "thumbnail": "https://example.com/taste-of-india-thumbnail.jpg",
+    "images": [
+      "https://example.com/taste-of-india-image1.jpg",
+      "https://example.com/taste-of-india-image2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sushi Haven",
+    "description": "Your sanctuary for sushi cravings.",
+    "price": "$$",
+    "rating": 4.3,
+    "categories": ["Japanese", "Sushi"],
+    "thumbnail": "https://example.com/sushi-haven-thumbnail.jpg",
+    "images": [
+      "https://example.com/sushi-haven-image1.jpg",
+      "https://example.com/sushi-haven-image2.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pasta Paradise",
+    "description": "Indulge in the world of pasta delights.",
+    "price": "$$",
+    "rating": 4.5,
+    "categories": ["Italian", "Pasta"],
+    "thumbnail": "https://example.com/pasta-paradise-thumbnail.jpg",
+    "images": [
+      "https://example.com/pasta-paradise-image1.jpg",
+      "https://example.com/pasta-paradise-image2.jpg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "BBQ Junction",
+    "description": "Barbecue at its smoky, flavorful best.",
+    "price": "$$",
+    "rating": 4.7,
+    "categories": ["Barbecue", "American"],
+    "thumbnail": "https://example.com/bbq-junction-thumbnail.jpg",
+    "images": [
+      "https://example.com/bbq-junction-image1.jpg",
+      "https://example.com/bbq-junction-image2.jpg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Vegetarian Delight",
+    "description": "A haven for vegetarian food enthusiasts.",
+    "price": "$$",
+    "rating": 4.4,
+    "categories": ["Vegetarian", "Healthy"],
+    "thumbnail": "https://example.com/vegetarian-delight-thumbnail.jpg",
+    "images": [
+      "https://example.com/vegetarian-delight-image1.jpg",
+      "https://example.com/vegetarian-delight-image2.jpg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Seafood Sensation",
+    "description": "Savor the freshness of the sea on your plate.",
+    "price": "$$$",
+    "rating": 4.6,
+    "categories": ["Seafood", "Fine Dining"],
+    "thumbnail": "https://example.com/seafood-sensation-thumbnail.jpg",
+    "images": [
+      "https://example.com/seafood-sensation-image1.jpg",
+      "https://example.com/seafood-sensation-image2.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Street Eats",
+    "description": "Discover street food from around the world.",
+    "price": "$",
+    "rating": 4.2,
+    "categories": ["Street Food", "International"],
+    "thumbnail": "https://example.com/street-eats-thumbnail.jpg",
+    "images": [
+      "https://example.com/street-eats-image1.jpg",
+      "https://example.com/street-eats-image2.jpg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Crispy Crust Pizzeria",
+    "description": "Experience the crunchiest pizza crusts in town.",
+    "price": "$$",
+    "rating": 4.5,
+    "categories": ["Italian", "Pizza"],
+    "thumbnail": "https://example.com/crispy-crust-pizzeria-thumbnail.jpg",
+    "images": [
+      "https://example.com/crispy-crust-pizzeria-image1.jpg",
+      "https://example.com/crispy-crust-pizzeria-image2.jpg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Taste of Thailand",
+    "description": "Journey through the flavors of Thailand.",
+    "price": "$$",
+    "rating": 4.3,
+    "categories": ["Thai", "Asian"],
+    "thumbnail": "https://example.com/taste-of-thailand-thumbnail.jpg",
+    "images": [
+      "https://example.com/taste-of-thailand-image1.jpg",
+      "https://example.com/taste-of-thailand-image2.jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Bistro Bites",
+    "description": "A charming bistro with delectable small plates.",
+    "price": "$$$",
+    "rating": 4.7,
+    "categories": ["Bistro", "Tapas"],
+    "thumbnail": "https://example.com/bistro-bites-thumbnail.jpg",
+    "images": [
+      "https://example.com/bistro-bites-image1.jpg",
+      "https://example.com/bistro-bites-image2.jpg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Vegan Vibes",
+    "description": "Plant-based goodness in every bite.",
+    "price": "$$",
+    "rating": 4.5,
+    "categories": ["Vegan", "Healthy"],
+    "thumbnail": "https://example.com/vegan-vibes-thumbnail.jpg",
+    "images": [
+      "https://example.com/vegan-vibes-image1.jpg",
+      "https://example.com/vegan-vibes-image2.jpg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Ramen Rendezvous",
+    "description": "Slurp-worthy ramen bowls for noodle lovers.",
+    "price": "$$",
+    "rating": 4.6,
+    "categories": ["Japanese", "Ramen"],
+    "thumbnail": "https://example.com/ramen-rendezvous-thumbnail.jpg",
+    "images": [
+      "https://example.com/ramen-rendezvous-image1.jpg",
+      "https://example.com/ramen-rendezvous-image2.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Gourmet Grill",
+    "description": "Elevate your grilling experience with gourmet flavors.",
+    "price": "$$$",
+    "rating": 4.8,
+    "categories": ["Grill", "Fine Dining"],
+    "thumbnail": "https://example.com/gourmet-grill-thumbnail.jpg",
+    "images": [
+      "https://example.com/gourmet-grill-image1.jpg",
+      "https://example.com/gourmet-grill-image2.jpg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Crepes & Co.",
+    "description": "Satisfy your sweet and savory cravings with crepes.",
+    "price": "$$",
+    "rating": 4.4,
+    "categories": ["Crepes", "French"],
+    "thumbnail": "https://example.com/crepes-co-thumbnail.jpg",
+    "images": [
+      "https://example.com/crepes-co-image1.jpg",
+      "https://example.com/crepes-co-image2.jpg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sushi Symphony",
+    "description": "A symphony of sushi flavors for sushi connoisseurs.",
+    "price": "$$$",
+    "rating": 4.9,
+    "categories": ["Japanese", "Sushi"],
+    "thumbnail": "https://example.com/sushi-symphony-thumbnail.jpg",
+    "images": [
+      "https://example.com/sushi-symphony-image1.jpg",
+      "https://example.com/sushi-symphony-image2.jpg"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Bakery Delights",
+    "description": "Freshly baked treats that melt in your mouth.",
+    "price": "$",
+    "rating": 4.2,
+    "categories": ["Bakery", "Pastries"],
+    "thumbnail": "https://example.com/bakery-delights-thumbnail.jpg",
+    "images": [
+      "https://example.com/bakery-delights-image1.jpg",
+      "https://example.com/bakery-delights-image2.jpg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Sizzling Szechuan",
+    "description": "Szechuan cuisine with a sizzling twist.",
+    "price": "$$",
+    "rating": 4.3,
+    "categories": ["Chinese", "Szechuan"],
+    "thumbnail": "https://example.com/sizzling-szechuan-thumbnail.jpg",
+    "images": [
+      "https://example.com/sizzling-szechuan-image1.jpg",
+      "https://example.com/sizzling-szechuan-image2.jpg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dessert Dreams",
+    "description": "Indulge in a world of delectable desserts.",
+    "price": "$$",
+    "rating": 4.5,
+    "categories": ["Desserts", "Sweet Treats"],
+    "thumbnail": "https://example.com/dessert-dreams-thumbnail.jpg",
+    "images": [
+      "https://example.com/dessert-dreams-image1.jpg",
+      "https://example.com/dessert-dreams-image2.jpg"
+    ]
   }
 ]}
